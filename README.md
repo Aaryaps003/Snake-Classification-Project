@@ -12,7 +12,7 @@ A deep learning solution for classifying snake images as **venomous** or **non-v
 | Non-Venomous      | X,XXX   | 224×224    | PNG    |
 
 > 🔍 **Dataset Notes**:
-> - Curated from : https://www.kaggle.com/datasets/adityasharma01/snake-dataset-india
+> - Curated from : datasets
 
 ## ⚙️ Installation
 ### Prerequisites
