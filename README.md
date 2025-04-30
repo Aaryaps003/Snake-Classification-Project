@@ -8,8 +8,8 @@ A deep learning solution for classifying snake images as **venomous** or **non-v
 ## 📂 Dataset
 | Category          | Samples | Image Size | Format |
 |-------------------|---------|------------|--------|
-| Venomous          | X,XXX   | 224×224    | JPEG   |
-| Non-Venomous      | X,XXX   | 224×224    | PNG    |
+| Venomous          | 1181  | 224×224    | JPEG   |
+| Non-Venomous      | 824  | 224×224    | PNG    |
 
 > 🔍 **Dataset Notes**:
 > - Curated from : https://github.com/Aaryaps003/Snake-Classification-Project/tree/main/dataset
